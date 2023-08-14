@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" modified="2023-08-14T02:33:17.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="TgP_zLCD9_giMcc-RGgu" version="21.6.8" type="github">
+  <diagram name="Halaman-1" id="a3Sczk5Y9BWB26_xXeQV">
+    <mxGraphModel dx="1707" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="120" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="120" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-4" value="INPUT MATERIAL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-5" value="INPUT SENSOR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-6" value="OUTPUT DATA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="855" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-7" value="Suhu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="120" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-9" value="Cahaya" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="210" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-10" value="Gas" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="120" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-11" value="Gempa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="210" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="120" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-13" value="PROCESSING DATA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-16" value="Sensor Suhu&lt;br&gt;(DHT-22)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-17" value="Sensor Cahaya (LDR)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="210" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-18" value="Sensor Gas (MQ-2)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-19" value="Sensor Gempa&lt;br&gt;(NC-SW420)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="210" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-20" value="ARDUINO Uno / Mega" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-21" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;OPSIONAL&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Buzzer&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LED&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="280" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-24" value="Celsius" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="120" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-25" value="Deteksi Gas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="120" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-26" value="Deteksi Cahaya" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="210" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-27" value="Deteksi Gempa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="210" width="70" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
