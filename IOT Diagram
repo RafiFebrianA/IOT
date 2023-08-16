@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T02:37:15.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="yXfdZxSD1PyARMMkY5hd" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-16T04:19:15.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IEzXSpjz77sKygZUf2zL" version="21.6.8" type="github">
   <diagram name="Halaman-1" id="a3Sczk5Y9BWB26_xXeQV">
     <mxGraphModel dx="1707" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,13 +55,13 @@
         <mxCell id="FbHL-1mgcECD7ppwc6UQ-17" value="Sensor Cahaya (LDR)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="210" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FbHL-1mgcECD7ppwc6UQ-18" value="Sensor Gas (MQ-2)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-18" value="Sensor Gas &amp;amp; Api&lt;br&gt;(MQ-2)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="120" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FbHL-1mgcECD7ppwc6UQ-19" value="Sensor Gempa&lt;br&gt;(NC-SW420)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="210" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FbHL-1mgcECD7ppwc6UQ-20" value="ARDUINO Uno / Mega" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="FbHL-1mgcECD7ppwc6UQ-20" value="ESP 32" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="550" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FbHL-1mgcECD7ppwc6UQ-21" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;OPSIONAL&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Buzzer&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LED&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -78,6 +78,21 @@
         </mxCell>
         <mxCell id="FbHL-1mgcECD7ppwc6UQ-27" value="Deteksi Gempa" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="210" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iW-k6uy2an2t8AckiQpB-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="iW-k6uy2an2t8AckiQpB-2" value="Farhan&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;: Sensor Api dan Gas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="290" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iW-k6uy2an2t8AckiQpB-3" value="Kamil&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;: Sensor Suhu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="310" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iW-k6uy2an2t8AckiQpB-4" value="Gangga&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;: Sensor Gempa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iW-k6uy2an2t8AckiQpB-5" value="Rafi&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;: Sensor Cahaya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="370" width="145" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
