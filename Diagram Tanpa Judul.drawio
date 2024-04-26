@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T07:49:17.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Oo33av-MtCdUIbrT7krj" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T02:56:53.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="0nLdVmiEkyyHLg79_Zq0" version="24.2.5" type="github">
   <diagram name="Halaman-1" id="Amh2mmN1JDySEoaFm9QU">
-    <mxGraphModel dx="1246" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2077" dy="822" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5LmN_igyrJK0lIg_dsVV-4" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="5LmN_igyrJK0lIg_dsVV-4" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="40" y="40" width="760" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="5LmN_igyrJK0lIg_dsVV-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="5LmN_igyrJK0lIg_dsVV-4">
+        <mxCell id="5LmN_igyrJK0lIg_dsVV-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="5LmN_igyrJK0lIg_dsVV-4" vertex="1">
           <mxGeometry width="760" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="5LmN_igyrJK0lIg_dsVV-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5LmN_igyrJK0lIg_dsVV-1">
+        <mxCell id="5LmN_igyrJK0lIg_dsVV-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5LmN_igyrJK0lIg_dsVV-1" vertex="1">
           <mxGeometry width="760" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="5LmN_igyrJK0lIg_dsVV-3" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="5LmN_igyrJK0lIg_dsVV-2">
+        <mxCell id="5LmN_igyrJK0lIg_dsVV-3" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5LmN_igyrJK0lIg_dsVV-2" vertex="1">
           <mxGeometry width="760" height="320" as="geometry">
             <mxRectangle width="760" height="320" as="alternateBounds" />
           </mxGeometry>
@@ -45,7 +45,7 @@
         <mxCell id="bi3WUS4kzeiAN3RM-r-X-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="5LmN_igyrJK0lIg_dsVV-4" source="bi3WUS4kzeiAN3RM-r-X-4" target="bi3WUS4kzeiAN3RM-r-X-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bi3WUS4kzeiAN3RM-r-X-6" value="Blynk menampilkan data aplikasi android dan web" style="rounded=0;whiteSpace=wrap;html=1;" parent="5LmN_igyrJK0lIg_dsVV-4" vertex="1">
+        <mxCell id="bi3WUS4kzeiAN3RM-r-X-6" value="Blynk menampilkan data aplikasi di android dan web" style="rounded=0;whiteSpace=wrap;html=1;" parent="5LmN_igyrJK0lIg_dsVV-4" vertex="1">
           <mxGeometry x="390.45" y="230" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bi3WUS4kzeiAN3RM-r-X-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="5LmN_igyrJK0lIg_dsVV-4" source="bi3WUS4kzeiAN3RM-r-X-5" target="bi3WUS4kzeiAN3RM-r-X-6" edge="1">
@@ -60,16 +60,16 @@
         <mxCell id="bi3WUS4kzeiAN3RM-r-X-14" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Fungsi Monitoring Intensitas Cahaya&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5LmN_igyrJK0lIg_dsVV-4" vertex="1">
           <mxGeometry x="228" width="323.95" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5LmN_igyrJK0lIg_dsVV-21" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="5LmN_igyrJK0lIg_dsVV-21" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="880" y="40" width="760" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="5LmN_igyrJK0lIg_dsVV-18" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="5LmN_igyrJK0lIg_dsVV-21">
+        <mxCell id="5LmN_igyrJK0lIg_dsVV-18" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="5LmN_igyrJK0lIg_dsVV-21" vertex="1">
           <mxGeometry width="760" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="5LmN_igyrJK0lIg_dsVV-19" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5LmN_igyrJK0lIg_dsVV-18">
+        <mxCell id="5LmN_igyrJK0lIg_dsVV-19" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5LmN_igyrJK0lIg_dsVV-18" vertex="1">
           <mxGeometry width="760" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="5LmN_igyrJK0lIg_dsVV-20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="5LmN_igyrJK0lIg_dsVV-19">
+        <mxCell id="5LmN_igyrJK0lIg_dsVV-20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5LmN_igyrJK0lIg_dsVV-19" vertex="1">
           <mxGeometry width="760" height="320" as="geometry">
             <mxRectangle width="760" height="320" as="alternateBounds" />
           </mxGeometry>
@@ -124,132 +124,75 @@
         <mxCell id="7ShA4Bs4Lb3jQ0K2besD-42" value="Tidak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5LmN_igyrJK0lIg_dsVV-21" vertex="1">
           <mxGeometry x="472.5" y="168.88888888888889" width="60.00000000000001" height="26.666666666666664" as="geometry" />
         </mxCell>
-        <mxCell id="5LmN_igyrJK0lIg_dsVV-25" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="220" y="480" width="1160" height="520" as="geometry" />
+        <mxCell id="5LmN_igyrJK0lIg_dsVV-22" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="250" y="412.5" width="1090" height="437.5" as="geometry" />
         </mxCell>
-        <mxCell id="5LmN_igyrJK0lIg_dsVV-22" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="5LmN_igyrJK0lIg_dsVV-25">
-          <mxGeometry width="1160" height="520" as="geometry" />
+        <mxCell id="5LmN_igyrJK0lIg_dsVV-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5LmN_igyrJK0lIg_dsVV-22" vertex="1">
+          <mxGeometry width="1090" height="438" as="geometry" />
         </mxCell>
-        <mxCell id="5LmN_igyrJK0lIg_dsVV-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5LmN_igyrJK0lIg_dsVV-22">
-          <mxGeometry width="1160" height="520" as="geometry" />
-        </mxCell>
-        <mxCell id="5LmN_igyrJK0lIg_dsVV-24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="5LmN_igyrJK0lIg_dsVV-23">
-          <mxGeometry width="1160" height="520" as="geometry">
-            <mxRectangle width="1160" height="520" as="alternateBounds" />
+        <mxCell id="5LmN_igyrJK0lIg_dsVV-24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="5LmN_igyrJK0lIg_dsVV-23" vertex="1">
+          <mxGeometry width="1090" height="438" as="geometry">
+            <mxRectangle width="1090" height="438" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="5LmN_igyrJK0lIg_dsVV-25" vertex="1">
-          <mxGeometry x="10" y="162.5" width="120" height="80" as="geometry" />
+        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="632.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="5LmN_igyrJK0lIg_dsVV-25" source="7ShA4Bs4Lb3jQ0K2besD-4" edge="1">
+        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7ShA4Bs4Lb3jQ0K2besD-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="202.5" as="targetPoint" />
+            <mxPoint x="620" y="672.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-4" value="Inisialisasi komponen dan program serta menghubungkan ke Blynk" style="rounded=0;whiteSpace=wrap;html=1;" parent="5LmN_igyrJK0lIg_dsVV-25" vertex="1">
-          <mxGeometry x="164" y="172.5" width="150" height="60" as="geometry" />
+        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-4" value="Inisialisasi komponen dan program serta menghubungkan ke Blynk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="434" y="642.5" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="5LmN_igyrJK0lIg_dsVV-25" source="7ShA4Bs4Lb3jQ0K2besD-2" target="7ShA4Bs4Lb3jQ0K2besD-4" edge="1">
+        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7ShA4Bs4Lb3jQ0K2besD-2" target="7ShA4Bs4Lb3jQ0K2besD-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-9" value="Apakah status&lt;br&gt;saklar 1&lt;br&gt;pada Blynk telah&lt;br&gt;berubah?" style="rhombus;whiteSpace=wrap;html=1;" parent="5LmN_igyrJK0lIg_dsVV-25" vertex="1">
-          <mxGeometry x="348.5" y="140" width="125" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-11" value="Kirim sinyal ke ESP32 untuk mengirim perintah ke servo 1 dan catat perubahan status lewat grafik" style="rounded=0;whiteSpace=wrap;html=1;" parent="5LmN_igyrJK0lIg_dsVV-25" vertex="1">
-          <mxGeometry x="495" y="162.5" width="150" height="77.5" as="geometry" />
-        </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="5LmN_igyrJK0lIg_dsVV-25" source="7ShA4Bs4Lb3jQ0K2besD-9" target="7ShA4Bs4Lb3jQ0K2besD-11" edge="1">
+        <mxCell id="1sxn3IzzySSfJyfg2rox-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7ShA4Bs4Lb3jQ0K2besD-9" target="7ShA4Bs4Lb3jQ0K2besD-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-12" value="END" style="ellipse;whiteSpace=wrap;html=1;" parent="5LmN_igyrJK0lIg_dsVV-25" vertex="1">
-          <mxGeometry x="10" y="381.25" width="120" height="80" as="geometry" />
+        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-9" value="Apakah status&lt;br&gt;relay&lt;br&gt;pada Blynk telah&lt;br&gt;berubah?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="618.5" y="610" width="125" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-13" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Fungsi Kendali Sistem Pencahayaan Jarak Jauh Berbasis IoT&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5LmN_igyrJK0lIg_dsVV-25" vertex="1">
-          <mxGeometry x="129" y="20" width="731" height="100" as="geometry" />
+        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-11" value="Kirim sinyal ke ESP32 untuk mengirim perintah ke relay dan catat perubahan status lewat grafik" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="775" y="633.75" width="150" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-14" value="Servo 1 bergerak sesuai perintah dan menggerakkan saklar pencahayaan 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="5LmN_igyrJK0lIg_dsVV-25" vertex="1">
-          <mxGeometry x="670" y="172.5" width="120" height="60" as="geometry" />
+        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-12" value="END" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1180.75" y="745" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="5LmN_igyrJK0lIg_dsVV-25" source="7ShA4Bs4Lb3jQ0K2besD-11" target="7ShA4Bs4Lb3jQ0K2besD-14" edge="1">
+        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-13" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Fungsi Kendali Tegangan Sistem Pencahayaan Berbasis IoT&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="434" y="440" width="731" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1sxn3IzzySSfJyfg2rox-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7ShA4Bs4Lb3jQ0K2besD-14" target="7ShA4Bs4Lb3jQ0K2besD-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-15" value="Apakah status&lt;br&gt;saklar 2&lt;br&gt;pada Blynk telah&lt;br&gt;berubah?" style="rhombus;whiteSpace=wrap;html=1;" parent="5LmN_igyrJK0lIg_dsVV-25" vertex="1">
-          <mxGeometry x="830" y="140" width="125" height="125" as="geometry" />
+        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-14" value="Relay merespon sesuai perintah dan mengubah statusnya" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="642.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="5LmN_igyrJK0lIg_dsVV-25" source="7ShA4Bs4Lb3jQ0K2besD-9" target="7ShA4Bs4Lb3jQ0K2besD-15" edge="1">
+        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7ShA4Bs4Lb3jQ0K2besD-11" target="7ShA4Bs4Lb3jQ0K2besD-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="5LmN_igyrJK0lIg_dsVV-25" source="7ShA4Bs4Lb3jQ0K2besD-14" target="7ShA4Bs4Lb3jQ0K2besD-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-16" value="Kirim sinyal ke ESP32 untuk mengirim perintah ke servo 2 dan catat perubahan status lewat grafik" style="rounded=0;whiteSpace=wrap;html=1;" parent="5LmN_igyrJK0lIg_dsVV-25" vertex="1">
-          <mxGeometry x="832.5" y="391.25" width="137.5" height="77.5" as="geometry" />
-        </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-17" value="Servo 2 bergerak sesuai perintah dan menggerakkan saklar pencahayaan 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="5LmN_igyrJK0lIg_dsVV-25" vertex="1">
-          <mxGeometry x="670" y="381.25" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="5LmN_igyrJK0lIg_dsVV-25" source="7ShA4Bs4Lb3jQ0K2besD-16" target="7ShA4Bs4Lb3jQ0K2besD-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="5LmN_igyrJK0lIg_dsVV-25" source="7ShA4Bs4Lb3jQ0K2besD-18" edge="1">
+        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7ShA4Bs4Lb3jQ0K2besD-9" target="7ShA4Bs4Lb3jQ0K2besD-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="412.4000000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="5LmN_igyrJK0lIg_dsVV-25" source="7ShA4Bs4Lb3jQ0K2besD-18" target="7ShA4Bs4Lb3jQ0K2besD-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-18" value="Apakah status&lt;br&gt;semua saklar&lt;br&gt;pada Blynk telah&lt;br&gt;berubah?" style="rhombus;whiteSpace=wrap;html=1;" parent="5LmN_igyrJK0lIg_dsVV-25" vertex="1">
-          <mxGeometry x="507.5" y="350" width="125" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="5LmN_igyrJK0lIg_dsVV-25" source="7ShA4Bs4Lb3jQ0K2besD-15" target="7ShA4Bs4Lb3jQ0K2besD-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1178.5" y="608.75" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1080" y="203" />
-              <mxPoint x="1080" y="495" />
-              <mxPoint x="570" y="495" />
+              <mxPoint x="681" y="590" />
+              <mxPoint x="1241" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-20" value="Kirim sinyal ke ESP32 untuk mengirim perintah ke semua servo dan catat perubahan status lewat grafik" style="rounded=0;whiteSpace=wrap;html=1;" parent="5LmN_igyrJK0lIg_dsVV-25" vertex="1">
-          <mxGeometry x="342.25" y="382.5" width="137.5" height="77.5" as="geometry" />
-        </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="5LmN_igyrJK0lIg_dsVV-25" source="7ShA4Bs4Lb3jQ0K2besD-17" target="7ShA4Bs4Lb3jQ0K2besD-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="670" y="413" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="5LmN_igyrJK0lIg_dsVV-25" source="7ShA4Bs4Lb3jQ0K2besD-21" target="7ShA4Bs4Lb3jQ0K2besD-12" edge="1">
+        <mxCell id="1sxn3IzzySSfJyfg2rox-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7ShA4Bs4Lb3jQ0K2besD-16" target="7ShA4Bs4Lb3jQ0K2besD-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-21" value="Semua servo bergerak sesuai perintah dan menggerakkan saklar pencahayaan" style="rounded=0;whiteSpace=wrap;html=1;" parent="5LmN_igyrJK0lIg_dsVV-25" vertex="1">
-          <mxGeometry x="179" y="391.25" width="130" height="60" as="geometry" />
+        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-16" value="Status sistem pencahayaan sesuai dengan kondisi relay" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1172" y="633.75" width="137.5" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="5LmN_igyrJK0lIg_dsVV-25" source="7ShA4Bs4Lb3jQ0K2besD-20" target="7ShA4Bs4Lb3jQ0K2besD-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-44" value="Ya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="730" y="642.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.429;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;" parent="5LmN_igyrJK0lIg_dsVV-25" source="7ShA4Bs4Lb3jQ0K2besD-15" target="7ShA4Bs4Lb3jQ0K2besD-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-44" value="Ya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5LmN_igyrJK0lIg_dsVV-25" vertex="1">
-          <mxGeometry x="447.5" y="172.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-45" value="Tidak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5LmN_igyrJK0lIg_dsVV-25" vertex="1">
-          <mxGeometry x="631" y="120" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-46" value="Tidak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5LmN_igyrJK0lIg_dsVV-25" vertex="1">
-          <mxGeometry x="1080" y="260" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-47" value="Tidak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5LmN_igyrJK0lIg_dsVV-25" vertex="1">
-          <mxGeometry x="440" y="300" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-48" value="Ya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5LmN_igyrJK0lIg_dsVV-25" vertex="1">
-          <mxGeometry x="832.5" y="300" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-49" value="Ya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5LmN_igyrJK0lIg_dsVV-25" vertex="1">
-          <mxGeometry x="465" y="381.25" width="60" height="30" as="geometry" />
+        <mxCell id="7ShA4Bs4Lb3jQ0K2besD-45" value="Tidak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="901" y="590" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
