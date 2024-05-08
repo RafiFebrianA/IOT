@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T01:06:31.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Do3M-HbHDutgmpkt4A34" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T01:44:22.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="CjjkARnZvEFLZqY4psnp" version="24.3.1" type="github">
   <diagram name="Page-1" id="8iTE9y3unLRZpRF1cUrK">
-    <mxGraphModel dx="1216" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,10 +40,7 @@
         <mxCell id="hW73Jil1XePK-IAgkjX--9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;Dimensi : 14,8 x 9,7 x 5 cm&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="89" y="440" width="230.47" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hW73Jil1XePK-IAgkjX--10" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Case 3D Alat Lampu Otomatis Berbasis IoT&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="199.37999999999997" y="-20" width="500.41" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NrWgmU7cNkm76xWCNHM3-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Berat : 130,11 gram&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NrWgmU7cNkm76xWCNHM3-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Berat : 130,11 gram&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="118" y="500" width="161" height="30" as="geometry" />
         </mxCell>
       </root>
