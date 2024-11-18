@@ -1,2 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_berkas_ict_berkas_ict,berkas_ict.berkas_ict,model_berkas_ict_berkas_ict,base.group_user,1,1,1,1
